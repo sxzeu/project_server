@@ -9,3 +9,6 @@
  - 클라이언트 구동 영상 (2022년 1월 1일 기준)
  - https://user-images.githubusercontent.com/63103601/147841890-8c29435f-00cb-4dfc-bcc0-c762b4354025.mp4
 
+ - 서버 구동 영상 (2022년 1월 1일 기준)
+ - https://user-images.githubusercontent.com/63103601/147842057-0bccf746-8b2b-46d6-ad31-d01df4aa3cac.mp4
+
