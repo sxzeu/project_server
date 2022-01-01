@@ -1,0 +1,7 @@
+﻿  Server.cpp
+D:\jmt\0405\q\server_new\server_new\server_new\Server.cpp(169,12): warning C4305: 'return': 'int'에서 'bool'(으)로 잘립니다.
+D:\jmt\0405\q\server_new\server_new\server_new\Server.cpp(429,16): warning C4101: 'packet_size' :참조되지 않은 지역 변수입니다.
+  Session.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  server_new.vcxproj -> D:\jmt\0405\q\server_new\server_new\Debug\server_new.exe
